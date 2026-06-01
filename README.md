@@ -4,7 +4,7 @@ An interactive Power BI dashboard designed to analyze and visualize sales, profi
 
 ## 📊 Project Overview
 This project provides a comprehensive overview of the business performance of a retail store. It tracks key performance indicators (KPIs) and provides deep insights into sales trends, profit margins, shipping modes, customer segments, and regional distributions to help data-driven decision-making.
-
+![image](https://github.com/Hydra12Sahil/project-3-bi/blob/master/Screenshot%202026-06-01%20101214.png?raw=true)
 ## 🔑 Key Metrics (KPIs)
 * **Total Profit:** $175K
 * **Total Sales:** $2M
